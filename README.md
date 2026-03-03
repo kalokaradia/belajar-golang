@@ -1,0 +1,1 @@
+This repository documents my journey learning the Go programming language. It contains small experiments, practice code, and notes as I explore Go fundamentals such as syntax, concurrency, CLI tools, and general backend concepts. The goal is not to build polished projects, but to understand how Go works through hands-on practice and incremental learning.
