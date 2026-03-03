@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main () {
+func main() {
 	// Declaring Constants
 
 	// untyped constant
@@ -13,7 +13,7 @@ func main () {
 	const GoldenRatio float32 = 1.618
 	const Age int = 100
 	fmt.Println(GoldenRatio, Age)
-	
+
 	// iota
 	// is an automatic counter inside a const block.
 	const (
@@ -26,5 +26,5 @@ func main () {
 		Sunday
 	)
 
-	fmt.Println(Monday, Tuesday, Wednesday, Thursday, Friday,Saturday,Sunday)
+	fmt.Println(Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)
 }
